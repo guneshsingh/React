@@ -1,0 +1,14 @@
+.usercontainer{
+    background-color: antiquewhite;
+    padding: 25px;
+    /* border-radius: 50%; */
+    width: 220px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+#img{
+    height: 120px;
+    width: 50%;
+    border-radius: 50%;
+    object-fit: cover;
+}
